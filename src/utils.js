@@ -1,7 +1,7 @@
 import allCountries from './assets/all-countries';
 
 export function getCountry() {
-  return fetch('https://ip2c.org/s')
+  return fetch('https://api.common.luciditv.com/ip2c')
     .then((response) => response.text())
     .then((response) => {
       const result = (response || '').toString();

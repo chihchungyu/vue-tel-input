@@ -1,13 +1,13 @@
 {
-  "name": "vue-tel-input",
-  "version": "4.3.0",
+  "name": "luciditv-vue-tel-input",
+  "version": "5.0.2",
   "description": "International Telephone Input with Vue",
-  "author": "Steven Dao <iamstevendao@gmail.com>",
+  "author": "Yup <yup@luciditv.com>",
   "license": "MIT",
-  "homepage": "https://educationlink.github.io/vue-tel-input/",
+  "homepage": "https://github.com/chihchungyu/vue-tel-input",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EducationLink/vue-tel-input.git"
+    "url": "https://github.com/chihchungyu/vue-tel-input"
   },
   "scripts": {
     "dev": "vue-cli-service serve",
@@ -62,13 +62,5 @@
     "last 2 versions"
   ],
   "keywords": [
-    "vue",
-    "telephone",
-    "phone",
-    "vue-tel-input",
-    "phone input",
-    "telephone input",
-    "input",
-    "international phone"
   ]
 }
